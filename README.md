@@ -12,11 +12,13 @@ java -Dfile.encoding="UTF-8" --module-path "C:\Program Files\Java\javafx-sdk-11.
 * 支持部分漏洞执行命令
 * 支持单一漏洞批量检测
 * 支持TP3和TP5自定义路径日志遍历
+* 支持部分漏洞一键GetShell
+* 支持设置代理和UA
 
-![](https://raw.githubusercontent.com/bewhale/thinkphp_gui_tools/main/img1.png)
+![](https://raw.githubusercontent.com/bewhale/thinkphp_gui_tools/main/img.png)
 
 # 参考项目
 https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection  
-https://github.com/Lucifer1993/TPscan
-https://github.com/fupinglee/JavaTools
-https://github.com/xinyu2428/TDOA_RCE
+https://github.com/Lucifer1993/TPscan  
+https://github.com/fupinglee/JavaTools  
+https://github.com/xinyu2428/TDOA_RCE  
