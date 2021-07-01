@@ -16,7 +16,10 @@ java -Dfile.encoding="UTF-8" --module-path "C:\Program Files\Java\javafx-sdk-11.
 * 支持设置代理和UA
 
 ![](https://raw.githubusercontent.com/bewhale/thinkphp_gui_tools/main/img.png)
+
 ![](https://raw.githubusercontent.com/bewhale/thinkphp_gui_tools/main/img1.png)
+
+![](https://raw.githubusercontent.com/bewhale/thinkphp_gui_tools/main/img2.png)
 
 # 参考项目
 https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection  
