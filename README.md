@@ -1,13 +1,7 @@
-# 项目关闭，停止下载
-
-
-
-
+![thinkphp_gui_tools](https://socialify.git.ci/bewhale/thinkphp_gui_tools/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Light)
 
 # thinkphp_gui_tools
-
 本项目是采用 JDK8 + javafx 开发的 ThinkPHP 图形化综合利用工具， 参考了其他大佬项目的部分代码。
-
 JDK8可以直接运行，JDK11 因为去除了javafx这个依赖，需要自己再加上参数加入模块
 
 ```
