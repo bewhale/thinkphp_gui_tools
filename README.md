@@ -15,7 +15,7 @@ java -Dfile.encoding="UTF-8" --module-path "C:\Program Files\Java\javafx-sdk-11.
 * 支持部分漏洞一键GetShell
 * 支持设置代理和UA
 
-![](https://raw.githubusercontent.com/bewhale/thinkphp_gui_tools/main/img.png)
+![](https://raw.githubusercontent.com/bewhale/thinkphp_gui_tools/main/img3.png)
 
 ![](https://raw.githubusercontent.com/bewhale/thinkphp_gui_tools/main/img1.png)
 
